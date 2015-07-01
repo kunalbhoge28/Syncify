@@ -18,8 +18,8 @@ Other .jar for PC client<br/>
 
 ---FOLOW INSTRUCTIONS ON HOW TO USE BY CLIKCING <b>" HOW TO USE "</b> Button on PC Client<br/>
 
-[ScreenShot](https://github.com/kunalbhoge28/Syncify/blob/master/M 2.png)<br/>
-[ScreenShot](https://github.com/kunalbhoge28/Syncify/blob/master/M 3.png)<br/>
-[ScreenShot](https://github.com/kunalbhoge28/Syncify/blob/master/M 4.png)<br/>
+![ScreenShot](https://github.com/kunalbhoge28/Syncify/blob/master/M 2.png)<br/>
+![ScreenShot](https://github.com/kunalbhoge28/Syncify/blob/master/M 3.png)<br/>
+![ScreenShot](https://github.com/kunalbhoge28/Syncify/blob/master/M 4.png)<br/>
 
 
