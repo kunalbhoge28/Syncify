@@ -14,3 +14,15 @@ Other .jar for PC client
 -Install and run the .apk
 -Type the PC ip in android and connect ! 
 
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background-color: lightgreen;
+}
+
+@media screen and (max-width: 300px) {
+    body {
+        background
+
