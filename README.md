@@ -12,5 +12,5 @@ Other .jar for PC client
 -Click on Host to start listening for android 
   ![Alt text] https://github.com/kunalbhoge28/Syncify/blob/master/1.png
 -Install and run the .apk
--Type the PC ip in android and connect !
+-Type the PC ip in android and connect ! 
 
